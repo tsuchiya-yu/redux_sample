@@ -37,7 +37,7 @@ redux-app/
 
 ### 2️⃣ 環境構築
 #### ① リポジトリをクローン
-git clone <リポジトリURL>
+git clone https://github.com/tsuchiya-yu/redux_sample.git
 cd redux-app
 
 #### ② Dockerコンテナをビルド
